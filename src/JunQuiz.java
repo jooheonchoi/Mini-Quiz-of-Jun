@@ -78,8 +78,6 @@ public class JunQuiz {
         }
     }
 
-
-
     public static void main(String[] args) {
         new JunQuiz();
     }
