@@ -47,7 +47,6 @@ public class JunQuiz {
         }
     }
 
-
     public void question(String input, Scanner scanner, String question, List<String> answers, String correctPrompt) {
         while (true) {
             System.out.println(question);
